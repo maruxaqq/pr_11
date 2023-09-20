@@ -1,0 +1,113 @@
+body {
+  padding-left: 200px;
+  padding-right: 200px;
+}
+
+.header{
+  display: flex;
+  justify-content: space-between;
+}
+
+
+.header-nav{
+  width: 340px;
+  height: 50px;
+  background-color: black;
+}
+
+.header-menu{
+  width: 150px;
+  height: 50px;
+  background-color: black;
+}
+
+.item {
+  display: flex;
+  height: 50px;
+  background-color: black;
+}
+
+.center {
+  margin-top: 9vh;
+}
+
+.item_2_1 {
+  width: 100%;
+}
+
+.blocks{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 9vh;
+}
+
+
+.item1{
+    width: 150px;
+    height: 150px;
+    background-color: black;
+}
+
+.item2{
+    width: 150px;
+    height: 150px;
+    background-color: black;
+}
+
+.item3{
+    width: 150px;
+    height: 150px;
+    background-color: black;
+}
+
+.p{
+    width: 150px;
+}
+
+.back{
+    margin-top: 9vh;
+    display: flex;
+    
+}
+
+.back1{
+    
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    
+    
+}
+
+.bitem1{
+    width: 400px;
+}
+
+.bitem2{
+    width: 300px;
+    margin-top: 30px;
+}
+
+.back1{
+    
+    display: flex;
+    flex: 2;
+    flex-direction: column;
+    
+}
+
+
+.barticle{
+  display: flex;
+  justify-self: start;
+  margin-top: 30px;
+}
+
+.barticle_1{
+  margin-left: 40px;
+  flex-direction: column;
+}
+
+.barticle_text{
+  width: 400px;
+}
